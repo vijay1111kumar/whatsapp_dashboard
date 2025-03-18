@@ -2,7 +2,7 @@ import os
 import json
 from pathlib import Path
 
-LOANS_DIR = "../../whatsapp"
+LOANS_DIR = "../whatsapp"
 
 def parse_info_file():
     loans = []
